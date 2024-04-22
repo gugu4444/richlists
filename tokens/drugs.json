@@ -24,6 +24,14 @@
         {
             "address": "inj1dh8cm0j4nftd78slh9gzvmwg68366luxe46mqa",
             "alias": "D.A.R.E"
+        },
+        {
+            "address": "inj1wazzpzuhqjwn2kht7erh0x6nn0ddwr4z7229p4",
+            "alias": "D.A.R.E"
+        },
+        {
+            "address": "inj1v3s9q8r9xvzggfaadrfyq8jgvw5590mqzp5sf0",
+            "alias": "D.A.R.E"
         }
     ],
     "ibc": []
